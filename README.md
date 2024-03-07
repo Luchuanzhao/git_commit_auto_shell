@@ -4,7 +4,7 @@ This shell will automatically execute commands `git add .`, `git commit -m "date
 
 ### Quick Start
 
-You are supposed to finish your first `git push -u origin master` before you use this shell. Or, you can edit the shell in the 8th line from `git push` to `git push -u origin master`.
+You are supposed to finish your first `git push -u origin master` (maybe your branch is called main)before you use this shell. Or, you can edit the shell in the 8th line from `git push` to `git push -u origin master`(maybe your branch is called main).
 
 1. Move this shell to your workspace directory i.e. in the same directory with `.git`
 2. Use chmod to add executable permissions
