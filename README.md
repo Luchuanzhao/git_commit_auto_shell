@@ -20,3 +20,9 @@ chmod +777 git_tools.sh
 ```
 
 4. After you run the shell, the Terminal will print `git status`. If there is nothing out of your expectations, input `y` to continue `git commit` and `git push`. Otherwise, you can input `N` to cancel the commit.
+
+### Update Notes
+
+- 2024.12.29
+
+  Added a batch script for **Windows**, you can double click the `git_tools.bat` in Windows for auto `git add/commit/push`
